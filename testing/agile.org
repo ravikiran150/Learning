@@ -1,0 +1,21 @@
+#+TITLE:Agile methodology
+#+AUTHOR: Ravi Kiran
+#+DATE: [2023-02-15 Wed]
+
+
+* Definition
+The Agile methodology is a way to manage a project by breaking it up into several phases. It involves constant collaboration with stakeholders and continuous improvement at every stage. Once the work begins, teams cycle through a process of planning, executing, and evaluating. Continuous collaboration is vital, both with team members and project stakeholders.
+
+* Sprint Planning Session
+Client , Developers, Testers and BA will be involved.
+- BA will divide all the requirement into stories and create a list for requirement and keep it in backlog list.
+- Client will prioritize the requirement.
+- Each requirement is called story.
+- Developer , testing team will give sotry points in JIRA(Project management tool).
+- Sprint will be for 2 weeks ( Depending upon the project).
+- Story point estimation system.
+
+* Scrum Meeting
+Scrum meeting is a daily standup call Dev, QA, BA and some time clients will be involved.
+* Scrum Master
+Scrum master will organise all the scrum meetings
