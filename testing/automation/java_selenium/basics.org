@@ -26,9 +26,26 @@ Object is the data.
 | Department | IT       | HR         |
 |------------+----------+------------|
 
+* Data Types in Java
+** Primitive data types
+  byte, short, int, long, float, double, boolean and char
 
+|-----------+--------+----------------------------------------------------------------|
+| Data Type | Size   | Description                                                    |
+|-----------+--------+----------------------------------------------------------------|
+| byte      | 8-bit  | Stores whole numbers from -128 to 127                          |
+| short     | 16-bit | Stores whole numbers from -32,768 to 32,767                    |
+| int       | 32-bit | Stores whole numbers from -2^31 to 2^31                        |
+| long      | 64-bit | Stores whole numbers from -2^63 to 2^63                        |
+| float     | 32-bit | Stores fractions. Sufficient for storing 6 to 7 decimal digits |
+| double    | 64-bit | Stores fractions. Sufficient for storing 15-16 decimal digits  |
+| boolean   | 1 bit  | Stores true or false values                                    |
+| char      | 16-bit | Sotes a single character/letter or ASCII values                |
+|-----------+--------+----------------------------------------------------------------|
+ 
 
-
+** Non Primitive data types
+String, Arrays
 
 
 
