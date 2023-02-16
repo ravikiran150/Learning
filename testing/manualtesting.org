@@ -215,41 +215,52 @@ System Testing Focuses on
 - Calculations/Manipulations Testing
 - Links Existence & Links Execution
 
-** Cookies & Sessions
-*** Object Properties Testing: Check the properties of objects present on the application Ex: Enable, Disable, Visible,focus.
-Database Testing: DML(Data Manipulation Language) operations by checking the database operations with respect to UI will be tested using small commands like insert, update, delete, select.
-Error Handling: Error messages should display verifying the error message while performing incorrect actions on the application. Error messages should be readable, and user able to understand the language/simple language.
-Calculations/Manipulation Testing: Test all the calculations in application should work properly with valid data & invalid data.
-Links Existence & Links Execution: Only for web apps where exactly the links are placed according to the document is Links Existence. Links are navigating to proper page or not is Links Execution.
-Different type of links are there
-Internal Links
-External Links
-Broken Links
-Cookies & Sessions: Only for web apps. 
-Cookies: Temporary files created by the browser while browsing the pages through the internet.
-Sessions: Sessions are created by the server with a limited time slot. If there is no activity for the specified time the session will end and the user needs to login again.
+*** Object Properties Testing:
+Check the properties of objects present on the application Ex: Enable, Disable, Visible,focus.
+*** Database Testing:
+DML(Data Manipulation Language) operations by checking the database operations with respect to UI will be tested using small commands like insert, update, delete, select.
+*** Error Handling:
+Error messages should display verifying the error message while performing incorrect actions on the application. Error messages should be readable, and user able to understand the language/simple language.
+*** Calculations/Manipulation Testing:
+Test all the calculations in application should work properly with valid data & invalid data.
+*** Links Existence & Links Execution:
+Only for web apps where exactly the links are placed according to the document is Links Existence. Links are navigating to proper page or not is Links Execution.
 
-4. Non-Functional Testing : Once the application functionality is stable then we do non-functional testing. It focuses on performance, load it can take and security etc.
+Different type of links are there
+- Internal Links
+- External Links
+- Broken Links
+** Cookies & Sessions: Only for web apps. 
+*** Cookies
+Temporary files created by the browser while browsing the pages through the internet.
+*** Sessions
+ Sessions are created by the server with a limited time slot. If there is no activity for the specified time the session will end and the user needs to login again.
+
+* 4. Non-Functional Testing
+Once the application functionality is stable then we do non-functional testing. It focuses on performance, load it can take and security etc.
 Non-Functional Testing includes
-Performance Testing
-Load Testing
-Stress Testing
-Volume Testing
-Security Testing
-Recovery Testing
-Compatibility Testing
-Forward Compatibility
-Backward Compatibility
-Hardware Compatibility
-Configuration Testing
-Installation Testing
-Sanitation/Garbage Testing
+- Performance Testing
+- Load Testing
+- Stress Testing
+- Volume Testing
+- Security Testing
+- Recovery Testing
+- Compatibility Testing
+- Forward Compatibility
+- Backward Compatibility
+- Hardware Compatibility
+- Configuration Testing
+- Installation Testing
+- Sanitation/Garbage Testing
 
  
-1. Performance Testing
-Load Testing : Increase the load on the application slowly and check the speed of the application.
-Stress Testing: Suddenly increase or decrease the load on the application and check the speed of the application.
-Volume Testing: Check how much data is able to handle by the application.
+** Performance Testing
+*** Load Testing
+Increase the load on the application slowly and check the speed of the application.
+*** Stress Testing
+Suddenly increase or decrease the load on the application and check the speed of the application.
+*** Volume Testing
+Check how much data is able to handle by the application.
 
 
 
