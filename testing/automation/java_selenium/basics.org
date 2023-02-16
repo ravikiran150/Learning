@@ -1,0 +1,12 @@
+#+TITLE: Automation Testing Selenium with Java basics
+#+AUTHOR: Ravikiran
+#+DATE: [2023-02-16 Thur]
+
+
+1.What is Automation testing ?
+Automated testing tools are capable of executing tests, reporting outcomes and comparing results with earlier test runs. Tests carried out with these tools can be run repeatedly, at any time of day. The method or process being used to implement automation is called a test automation framework.
+
+2.What is Selenium?
+Selenium is an automation tool used to test the functionalities of web applications.
+
+
