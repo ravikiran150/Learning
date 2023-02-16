@@ -3,10 +3,32 @@
 #+DATE: [2023-02-16 Thur]
 
 
-1.What is Automation testing ?
+* What is Automation testing ?
 Automated testing tools are capable of executing tests, reporting outcomes and comparing results with earlier test runs. Tests carried out with these tools can be run repeatedly, at any time of day. The method or process being used to implement automation is called a test automation framework.
 
-2.What is Selenium?
+* What is Selenium ?
 Selenium is an automation tool used to test the functionalities of web applications.
+
+* What is Java ?
+Java is a Programming Language. It is used to write the automation scripts using selenium.
+
+* What is Class and Objects?
+** Class
+Class is a blueprint or template or form to create objects.
+** Object
+Object is the data.
+
+|------------+----------+------------|
+| Class      | Object 1 | Object 2   |
+|------------+----------+------------|
+| Name       | Rama     | Sita       |
+| Profession | QA       | HR Manager |
+| Department | IT       | HR         |
+|------------+----------+------------|
+
+
+
+
+
 
 
