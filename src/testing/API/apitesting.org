@@ -1,0 +1,21 @@
+#+TITLE:API Testing
+#+AUTHOR: Ravi Kiran
+#+DATE: [2023-03-01 Wed]
+
+* API Testing
+API is the acronym for Application Programming Interface which is a
+software intermediary that allows two applications to talk to each
+other.
+
+There are three layers for an application
+
+- Presentation Layer - HTML5, Javascript, CSS
+  GUI Testing will be conducted on Presentation Layer.
+- Application Layer(Business Logic) - Java, .net, C#, Python, C++
+  API Testing will be conducted on Business logic or Application layer.
+- Data Layer - MySQL, Oracle, PostgreSql, MongoDB
+  Database Testing is conducted on Data Layer.
+
+
+
+
