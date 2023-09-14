@@ -39,7 +39,6 @@ home/test
 yourname
 
 
-Variables
 Variables 
 #!/bin/bash
 echo "first shell line"
@@ -52,7 +51,7 @@ host=$(hostname)
 echo $host
 
 
-How to input from the User?
+** How to input from the User?
 
 #!/bin/bash
 echo what is your name?
