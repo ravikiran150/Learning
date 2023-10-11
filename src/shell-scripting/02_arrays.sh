@@ -16,4 +16,9 @@ echo "values ${myArray[*]:1}"
 The shell script echo "values ${myArray[*]:1}" will print all of the elements of the myArray array, starting from index 1. The myArray[*] expression expands to all of the elements of the myArray array. The :1 slice expression selects all of the elements from index 1 onwards, exclusive of index 0.
 comment
 
-#Array key-value 
+#Array key-value - In shell scripting, key-value pairs can be stored in associative arrays. Associative arrays are a type of array that allow you to store data using string keys, instead of just numerical indices.
+To create an associative array in Bash, you can use the declare command. For example, the following code creates an associative array called my_array:
+declare -A my_array
+my_array=([name]=Ravi [age]=35 [city]=Hyderabad)
+echo "Name is ${my_array[name]}"
+echo "I am from ${my_array[city]}"
