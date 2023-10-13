@@ -17,3 +17,13 @@ The shell script echo "values ${myArray[*]:1}" will print all of the elements of
 
 The myArray[*] expression expands to all of the elements of the myArray array. The :1 slice expression selects all of the elements from index 1 onwards, exclusive of index 0.
 comment
+
+#how to store the key values pairs
+
+declare -A myarray
+
+myarray=( [name]=Ravi [age]=35 [city]=Hyderabad )
+
+echo "My name is ${myarray[name]}"
+echo "I am from ${myarray[city]}"
+
